@@ -12,7 +12,7 @@ using SistemaEstoqueApi.Data;
 namespace SistemaEstoqueApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251209234054_InitialCreate")]
+    [Migration("20251210132947_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

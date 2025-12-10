@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joacir\\Desktop\\projeto integrador\\Projeto-Petrobras\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj": {}
+    "C:\\Users\\Joacir\\Desktop\\api-petrobras\\backend-api\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joacir\\Desktop\\projeto integrador\\Projeto-Petrobras\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj": {
+    "C:\\Users\\Joacir\\Desktop\\api-petrobras\\backend-api\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joacir\\Desktop\\projeto integrador\\Projeto-Petrobras\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj",
+        "projectUniqueName": "C:\\Users\\Joacir\\Desktop\\api-petrobras\\backend-api\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj",
         "projectName": "SistemaEstoqueApi",
-        "projectPath": "C:\\Users\\Joacir\\Desktop\\projeto integrador\\Projeto-Petrobras\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj",
+        "projectPath": "C:\\Users\\Joacir\\Desktop\\api-petrobras\\backend-api\\SistemaEstoqueApi\\SistemaEstoqueApi.csproj",
         "packagesPath": "C:\\Users\\Joacir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joacir\\Desktop\\projeto integrador\\Projeto-Petrobras\\SistemaEstoqueApi\\obj\\",
+        "outputPath": "C:\\Users\\Joacir\\Desktop\\api-petrobras\\backend-api\\SistemaEstoqueApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joacir\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
